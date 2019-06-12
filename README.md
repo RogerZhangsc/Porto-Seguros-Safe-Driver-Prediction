@@ -1,2 +1,2 @@
 # Porto-Seguros-Safe-Driver-Prediction
-reproduce 1st place's solution
+rankGaussian python implementation of https://github.com/michaeljahrer/rankGauss
