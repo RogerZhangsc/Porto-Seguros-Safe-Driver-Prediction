@@ -119,7 +119,7 @@ class RGN:
                 x1, y1 = lower_key, trafoMap[lower_key]
                 x2, y2 = upper_key, trafoMap[upper_key]
 
-                trafoVal = y1 + (x - x1) * (y2 - y1) / (x2 - x1)
+                trafoVal = y1 + (val - x1) * (y2 - y1) / (x2 - x1)
             dataOut.append(trafoVal)
         dataOut = np.asarray(dataOut, dtype=self.precision)
         self._output = dataOut
