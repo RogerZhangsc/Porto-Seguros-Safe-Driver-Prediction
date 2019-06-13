@@ -1,1 +1,1 @@
-from rgn import RGN
+from .rgn import RGN
