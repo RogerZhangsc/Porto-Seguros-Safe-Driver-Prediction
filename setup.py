@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="rgn",
-    version="0.1.6",
+    version="0.1.11",
     author="Roger",
     author_email="",
     description="Rank Gaussian Normalization",

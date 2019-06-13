@@ -1,7 +1,7 @@
 README.md
 setup.py
-rgn/__init__.py
-rgn/rgn.py
+package/__init__.py
+package/rgn.py
 rgn.egg-info/PKG-INFO
 rgn.egg-info/SOURCES.txt
 rgn.egg-info/dependency_links.txt
