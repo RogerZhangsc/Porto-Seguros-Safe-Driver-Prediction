@@ -1,1 +1,1 @@
-name = "rgn"
+from rgn import RGN
